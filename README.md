@@ -2,7 +2,7 @@
 A very simple Halton Points generator function.
 Halton sequences are quasi-random points that evenly fill the n-dimensional unit cube $[0,1)^{n}$.
 
-Example: 1000 points in $R^{2}$:
+Example: 1000 points in $R^{3}$:
 
 ![figure](ss.png)
 
